@@ -1,0 +1,11 @@
+Room,1,2
+Room,2,5
+Room,3,6
+Room,4,2
+Room,5,3
+Room,6,2
+Room,7,190
+Booking,2020-2-29,2020-8-9,2,1,haha
+Booking,2019-12-6,2022-12-6,6,2,lele
+Booking,2018-11-5,2021-12-6,6,3,male
+Booking,1-1-1,2-1-1,2,2,isus
